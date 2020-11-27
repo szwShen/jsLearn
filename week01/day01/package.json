@@ -1,0 +1,8 @@
+{
+  "name": "szwjob",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:szwShen/jsLearn.git",
+  "author": "<357243507@qq.com>",
+  "license": "MIT"
+}
